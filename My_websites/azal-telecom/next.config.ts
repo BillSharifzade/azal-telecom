@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
     unoptimized: true,
   },
   // Base path for GitHub Pages deployment: /repo-name/sub-folders
-  basePath: '/allProjects/My_websites/azal-telecom',
+  basePath: '/azal-telecom/My_websites/azal-telecom',
 };
 
 export default nextConfig;
